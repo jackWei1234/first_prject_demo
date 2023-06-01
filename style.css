@@ -1,0 +1,35 @@
+span {
+  color: blue;
+}
+
+h1 {
+  color: rgb(17, 17, 19);
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+button {
+  color: rgb(6, 80, 55);
+}
+
+h3 {
+  color: aqua;
+}
+
+#second_h2 {
+  color: #300dc9
+}
+
+.group2 {
+  color: #300dc9;
+}
+
+.group1 {
+  color: blueviolet;
+  background-color: aquamarine;
+  border-radius: 100px;
+}
