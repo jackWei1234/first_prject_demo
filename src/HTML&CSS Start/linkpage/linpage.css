@@ -79,6 +79,7 @@ td {
 
 .table-red {
   background-color: red;
+  color: aqua;
 }
 thead th {
   text-transform: uppercase;
